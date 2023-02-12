@@ -66,3 +66,4 @@ print(map[0],map[1],map[2],map[3],map[4],"\n", sep="\n")
 while n == 0:
     time.sleep(1)
     map = scan(map,map1)
+print("life top 1")
